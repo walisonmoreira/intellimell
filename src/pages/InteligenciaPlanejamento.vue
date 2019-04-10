@@ -3,7 +3,7 @@
     <div class="row q-col-gutter-md">
       <div class="col-xs-12 col-sm-6 col-md-4">
         <q-card>
-          <q-img src="/statics/vendas.png">
+          <q-img src="statics/vendas.png">
             <div class="absolute-bottom">
               <div class="text-h6">Vendas do Produto Principal</div>
               <div>Gerar inteligência a fim de ajudar a vender ao menos 200.000 caixas do produto principal no primeiro ano.</div>
@@ -18,7 +18,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <q-card>
-          <q-img src="/statics/logistica.png">
+          <q-img src="statics/logistica.png">
             <div class="absolute-bottom">
               <div class="text-h6">Software de Logística</div>
               <div>Gerar inteligência a fim de ajudar a adquirir o software de logística e treinar as equipes até fevereiro de 2020.</div>
@@ -33,7 +33,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <q-card>
-          <q-img src="/statics/marketing.png">
+          <q-img src="statics/marketing.png">
             <div class="absolute-bottom">
               <div class="text-h6">Marketing e Comunicação</div>
               <div>Gerar inteligência a fim de ajudar a desenvolver toda campanha de marketing e comunicação até março de 2020.</div>
@@ -48,7 +48,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <q-card>
-          <q-img src="/statics/exportacao.png">
+          <q-img src="statics/exportacao.png">
             <div class="absolute-bottom">
               <div class="text-h6">Manual de Exportação</div>
               <div>Gerar inteligência a fim de ajudar a construir um manual de exportação para a China redigido e revisado até março de 2020.</div>

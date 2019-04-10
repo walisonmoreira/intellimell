@@ -3,7 +3,7 @@
     <div class="row q-col-gutter-md">
       <div class="col-xs-12 col-sm-6 col-md-4">
         <q-card>
-          <q-img src="/statics/excel.png">
+          <q-img src="statics/excel.png">
             <div class="absolute-bottom">
               <div class="text-h6">Integração com o Microsoft Excel</div>
               <div class="text-subtitle2">Veja e altere seus projetos direto na planíliha</div>
@@ -17,7 +17,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
         <q-card>
-          <q-img src="/statics/google-sheets.png">
+          <q-img src="statics/google-sheets.png">
             <div class="absolute-bottom">
               <div class="text-h6">Integração com o Google Planilhas</div>
               <div class="text-subtitle2">Projetos de inteligência na núvem do Google</div>
